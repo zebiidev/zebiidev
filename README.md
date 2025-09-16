@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zebiidev  
+# Hi 👋, I'm Abuzer  
 
 💻 Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor  
 
